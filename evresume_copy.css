@@ -1,12 +1,6 @@
 body{
-background-color: #B5B5AB;
-height: 900px;
-width: 960px;
-text-align: center;
-font-style: oblique;
-text-shadow: 1px 1px black;
-margin: 0 0 0 245px;
-color: #5CF337
+font-family: Arial;
+color: #1AD6CA;
 }
 
 .email{
