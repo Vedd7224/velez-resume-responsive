@@ -68,3 +68,27 @@ text-align: left;
 .footer2{
 text-align: right;
 }
+
+@media only screen and (min-width: 500px){
+body{
+background-color: red;
+}
+}
+
+@media only screen and (min-width: 300px){
+body{
+background-color: blue;
+}
+}
+
+@media only screen and (min-width: 200px){
+body{
+background-color: orange;
+}
+}
+
+@media only screen and (min-width: 100px){
+body{
+background-color: yellow;
+}
+}
